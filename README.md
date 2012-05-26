@@ -17,11 +17,16 @@ Introducción
 
     Versionamiento en el cretácico:  
     ![](http://img18.imageshack.us/img18/7883/capturadepantalla201205q.png)  
+  
     Después, versionamiento en equipo local (patches):  
     ![](http://git-scm.com/figures/18333fig0101-tn.png)  
+  
     Control de Versiones Centralizado (CVS, SVN):  
+  
     ![](http://git-scm.com/figures/18333fig0102-tn.png)  
+  
     Control de Versiones Distribuido (Git, Mercurial, Bazaar):  
+  
     ![](http://git-scm.com/figures/18333fig0103-tn.png)  
 
 * **Premisas**
@@ -39,18 +44,26 @@ Introducción
 Git 101
 -------
 
-* **Creando un repositorio**
-* **Clonando un repo existente**
+* **Obtener un repositorio**
+    - git init  
+    - git clone [url]  
 * **Operaciones con archivos**
-    - Status
+    - Ciclo de vida de los archivos:  
+        ![](http://git-scm.com/figures/18333fig0201-tn.png)
+    - git status
     - Agregar nuevos archivos al repo
     - Añadir archivos modificados a un commit
-    - Diff
     - Ignorar archivos o directorios
-    - Commit
+    - git diff
+    - git commit
+    - Saltando la 'staging area'
     - Eliminar y mover archivos
 * **Historial de cambios**
-* **Regresando una metida de pata (undoing things)**
+* **Recuperando después de una metida de pata (undoing things)**
+    - --amend
+    - reset
+    - checkout
+    - revert
 * **Repositorios remotos**
 * **Tags**
 * **Tips & tricks**
