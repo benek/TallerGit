@@ -10,8 +10,8 @@ Introducción
 
 * Control de Versiones
 
-    Ventajas: revertir, comparar, revisar... intercambiar.
-    Tener la seguridad de poder recuperar tu trabajo si metes la pata, y que sea fácil.
+    Ventajas: revertir, comparar, revisar... intercambiar.  
+    Tener la seguridad de poder recuperar tu trabajo si metes la pata, y que sea fácil.  
 * Historia
 * Git vs Otros
 
