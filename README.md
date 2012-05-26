@@ -18,8 +18,8 @@ Introducción
     Versionamiento en el cretácico:  
     ![](http://img18.imageshack.us/img18/7883/capturadepantalla201205q.png)  
   
-    Después, versionamiento en equipo local (patches): 
- 
+    Después, versionamiento en equipo local (patches):  
+
     ![](http://git-scm.com/figures/18333fig0101-tn.png)  
   
     Control de Versiones Centralizado (CVS, SVN):  
@@ -90,3 +90,8 @@ Github.com
 * **¿Qué es?**
 * **...**
 
+
+=============
+
+Este taller está basado en el libro Pro Git, de Scott Chacon.  
+[Creative Commons Attribution Non Commercial Share Alike 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/)
