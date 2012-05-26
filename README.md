@@ -1,6 +1,7 @@
 Taller de Git
 =============
 
+
 Javier Alberto Ramírez Hernández  
 <xbenek@dev.java.net>  
 www.SintelTI.mx  
