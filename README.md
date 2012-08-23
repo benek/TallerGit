@@ -3,7 +3,7 @@ Taller de Git
 
 
 Javier Alberto Ramírez Hernández  
-<xbenek@dev.java.net>  
+<benek@javamexico.org>  
 www.SintelTI.mx  
 
 Introducción
