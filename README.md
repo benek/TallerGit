@@ -76,21 +76,23 @@ Git Branches
 ------------
 
 * **¿Qué es un branch?**
+    - Un branch es una ramificación de la línea de desarrollo central (branch master), es decir, es una nueva línea de desarrollo en la cuál pueden implementarse cambios o nuevas ideas sin afectar la línea base, con el fin de que estos cambios puedan ser integrados al branch master cuando su funcionamiento ya esté garantizado o descartados si simplemente se trató de una mala idea.
+    - La mayoría de los sistemas de control de versiones cuentan con la característica de branching, aunque en su mayoría resultan ser de implementación dolorosa ya que algunos implementan el branching copiando todo el estado actual de la rama base, esto hace que la integración (merge) también sea muy dolorosa e ineficaz. Git se diferencía de los demás sistemas de control de versiones porque el branching en Git es bastante liviano, y toma en cuenta (como todo en Git) solamente los datos que varían, no los que no han cambiado. Esto hace que el proceso de crear un branch en Git sea inmediato, y el merge sea muy breve también.
 * **Branching y Merging**
+    - git branch
+    - git branch <nombrebranch>
+    - git checkout <nombrebranch>
+    - git checkout -b <nombrebranch>
+    - git merge <nombrebranch>
+* **Resolución de conflictos y avances sin commit
 * **Branches remotos**
+    - Pushing & pulling de branches remotos
 
 Git Tools
 ---------
 
 * **Stashing**
 * **Rebase**
-
-Github.com
-----------
-
-* **¿Qué es?**
-* **...**
-
 
 =============
 
