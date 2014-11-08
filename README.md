@@ -157,7 +157,7 @@ Git 101
 
 * Cuando el algoritmo de *merge* de Git no puede integrar cambios provenientes de dos fuentes, es probable que nos deje a nosotros la tarea de realizar esta integración de manera manual.
 
-* **git rebase**
+**git rebase**
 
 * Sirve para reescribir la historia de commits del repositorio, este comando literalmente regresa el estado desde donde le hayamos indicado y vuelve a efectuar los commits con los cambios que le hayamos ordenado. Al reescribir la historia tenemos la opción de descartar commits, fusionarlos o editarlos.
 
